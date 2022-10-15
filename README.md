@@ -3,8 +3,9 @@
 
 
 
+![IBM](https://user-images.githubusercontent.com/75237577/196001508-46eea443-9ec8-4882-adc7-e70a3e40cf90.png)
 
-![IBM](https://user-images.githubusercontent.com/75237577/195991760-15bb7d65-2d10-4663-825a-a6fd6f47a2cd.png)
+
 
 ## SmartBridge in collaboration with IBM Global University Programs has brought an exclusive challenge for you to Code, Develop & Innovate for a better future. 
 
