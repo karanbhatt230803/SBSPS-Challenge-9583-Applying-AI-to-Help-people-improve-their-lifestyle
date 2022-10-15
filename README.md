@@ -1,16 +1,16 @@
 # IBM Hack Challenge 2022
 Code For A Better Future (Smart Internz)
 
-## SmartBridge in collaboration with IBM Global University Programs has brought an exclusive challenge for you to Code, Develop & Innovate for a better future. 
 
 
 
 ![IBM](https://user-images.githubusercontent.com/75237577/195991760-15bb7d65-2d10-4663-825a-a6fd6f47a2cd.png)
 
+## SmartBridge in collaboration with IBM Global University Programs has brought an exclusive challenge for you to Code, Develop & Innovate for a better future. 
 
-## IBM Hack Challenge 2022 is packed with technical learning, finding solutions to problems plaguing society and access to courseware & skill badges.
+# IBM Hack Challenge 2022 is packed with technical learning, finding solutions to problems plaguing society and access to courseware & skill badges.
 
-## This year, use Red Hat OpenShift, Cognitive & Artificial Intelligence, Cybersecurity & Machine Learning and Data Science & Analytics and build solutions that will shape a better world with resilience.
+# This year, use Red Hat OpenShift, Cognitive & Artificial Intelligence, Cybersecurity & Machine Learning and Data Science & Analytics and build solutions that will shape a better world with resilience.
 
 # Problem Statement: Applying AI to Help people improve their lifestyle
 
